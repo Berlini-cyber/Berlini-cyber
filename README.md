@@ -1,4 +1,4 @@
-# Ahmed Al Munirawi
+# Berlini
 
 ### Arabic storytelling · Voice · Digital creativity
 
@@ -32,7 +32,7 @@ I’m developing this space step by step, with an emphasis on useful work, clear
 
 <div dir="rtl">
 
-### أهلًا، أنا أحمد المنيراوي
+### أهلًا، أنا برليني
 
 أهتم بالسرد وصناعة المحتوى العربي والصوت، وأستكشف كيف تساعد أدوات الذكاء الاصطناعي في تحويل الأفكار إلى أعمال إبداعية. هذه المساحة لتطوير معرض أعمالي ومشاركة التجارب والمشاريع عندما تصبح جاهزة.
 
